@@ -1,48 +1,54 @@
-<div align="center">
+<h1 align="center">Hi, I'm Frank / Yichen Xu 👋</h1>
 
-# Hi, I'm Frank / Yichen Xu 👋
+<p align="center"><b>Architect & Urban Designer · AI-native Builder · Shanghai</b></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=560&lines=Architect+by+day+%F0%9F%8F%9B%EF%B8%8F;Builder+by+night+%F0%9F%8C%99;I+draw+buildings%2C+then+build+tools+with+AI;Currently+rendering...+please+wait+%E2%8F%B3" alt="typing" />
+<p align="center">🟢 Open to opportunities — architecture, design-tech, or anything in between</p>
 
-**Architect & Urban Designer · AI-native Builder · Shanghai**
+---
 
-**🟢 Open to opportunities** — architecture, design-tech, or anything in between
+## 🧑‍💻 About Me
 
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-coming%20soon-2F81F7?style=flat-square)](#)
 
-```text
-┌──────────────────────────────────────────────────┐
-│  PROJECT   Frank Xu                              │
-│  TYPE      Architect, accidentally a developer   │
-│  SCALE     1 : 1                                 │
-│  STATUS    Under construction 🚧 (forever)        │
-│  REVISION  v2026.10                              │
-└──────────────────────────────────────────────────┘
-```
+I'm an architect trained at **Columbia GSAPP** (M.S. Architecture & Urban Design) and **Zhejiang University of Technology** (B.Arch), based in Shanghai.
 
-## 📐 About Me
+Currently working around: **AI-native design workflows · Generative visualization · Web 3D**
 
-- 🎓 M.S. Architecture & Urban Design @ **Columbia GSAPP** · B.Arch @ **Zhejiang University of Technology**
-- 🏛️ I spent years designing theaters, TOD hubs and HQ towers — then started using AI to design faster.
-- 🤖 Now I also build things with AI: desktop tools, browser 3D worlds, design-to-product prototypes.
-- 🔭 Interested in: **AI for design workflows · Generative visualization · Web 3D**
+Most of my past three years went into public buildings and urban renewal — theaters, TOD hubs, headquarters towers, and competition entries, several of which won. I care about how a building gets built, not only how it looks on paper.
+
+More recently, my focus has been on **using AI in the design loop** — generating and iterating renderings, producing competition films, and building small tools where a general AI model is a little too dumb and a proper product is a little too much.
+
+Before that, I studied parametric facades at **Kengo Kuma & Associates** and built a landscape installation in the Gobi, which is where I learned that drawings are cheap and details are not.
+
+---
 
 ## 💼 Experience
 
-| When | What |
-|---|---|
-| 2025.02 – 2026.05 | **Architect** @ DUSHE Architects, Shanghai — 3 competition wins (incl. 1st place, Taizhou CBD International Competition) |
-| 2022.12 – 2023.02 | **Intern** @ Kengo Kuma & Associates — parametric facade for UCCA Clay Museum (built) |
-| 2022.06 – 2022.09 | **Intern** @ L&A Design — designed & built a timber-stone landscape installation, exhibited at Shanghai Design Week |
+**2025.02 – 2026.05 :** Architect @ DUSHE Architects, Shanghai
+Three competition wins, including first place at the Taizhou CBD International Competition. Full cycle from concept to construction drawings across theaters, TOD hubs and towers.
+
+**2022.12 – 2023.02 :** Intern @ Kengo Kuma & Associates
+Parametric facade design for the UCCA Clay Museum (built) and interior systems for the Nanjing Xianlin Art Center.
+
+**2022.06 – 2022.09 :** Intern @ L&A Design
+Designed and built a timber-and-stone landscape installation in Gansu, later exhibited at Shanghai Design Week.
+
+---
 
 ## 🛠️ Things I Built
 
-| | Project | What it is |
-|---|---|---|
-| 🏕️ | [**The Surveyor's Cabin**](https://github.com/FxrcRed/surveyors-cabin) · [walk in →](https://fxrcred.github.io/surveyors-cabin/) | A log cabin in a northern forest you can walk into, in the browser. Day/night, 7 weathers, a story behind every object. |
-| 🎙️ | [**Quill**](https://github.com/FxrcRed/quill) | Offline voice typing for Windows: speak messy English or Chinese, get clean English at your cursor. 100% local. |
-| 👟 | [**AI Shoe Rack**](https://github.com/FxrcRed/ai-shoe-rack) · [try it →](https://fxrcred.github.io/ai-shoe-rack/) | Snap a photo, describe your space, AI designs a custom shoe rack and generates the parts list. |
-| 🎨 | AI rendering pipeline | AI-generated renderings & promo videos used in real competition-winning projects. |
+**[The Surveyor's Cabin](https://github.com/FxrcRed/surveyors-cabin)** · [walk in →](https://fxrcred.github.io/surveyors-cabin/)
+A log cabin in a northern forest you can walk into, in the browser. Day/night, seven weathers, a story behind every object. three.js, no build step.
+
+**[Quill](https://github.com/FxrcRed/quill)**
+Offline voice typing for Windows: speak messy English or Chinese, get clean English at your cursor. 100% local — Parakeet, SenseVoice and Qwen3 via Ollama.
+
+**[AI Shoe Rack](https://github.com/FxrcRed/ai-shoe-rack)** · [try it →](https://fxrcred.github.io/ai-shoe-rack/)
+Snap a photo, describe the space, and AI designs a custom shoe rack with a parts list. A prototype for design-to-product workflows.
+
+**AI rendering pipeline** — image generation, upscaling and promo videos used in competition-winning projects. Cut iteration time from days to hours.
+
+---
 
 ## 🧰 Toolbox
 
@@ -50,18 +56,18 @@
 **Build** · Python · JavaScript · three.js · Blender · Claude Code
 **AI** · Google AI Studio · RunningHub · Kling · Jimeng · Ollama
 
-## 🎲 Fun Facts
+---
 
-- 📷 Amateur photographer, 🚁 amateur drone pilot — I like seeing cities from above, it's a site plan in real life.
-- 🎾 Tennis & 🏊 swimming
-- 🚀 Sci-fi fan. Favorite kind of building: the ones that don't exist yet.
+## 🎲 Off the clock
 
-## 📈 Activity
+Amateur photographer and drone pilot — I like seeing cities from above, it's a site plan in real life. Tennis, swimming, and a lot of science fiction.
+
+---
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=FxrcRed&hide_border=true&theme=default" alt="streak" />
 
-<img src="https://raw.githubusercontent.com/FxrcRed/FxrcRed/output/github-snake.svg" alt="snake eating my contributions" />
+<img src="https://raw.githubusercontent.com/FxrcRed/FxrcRed/output/github-snake.svg" alt="contributions" />
 
 </div>
