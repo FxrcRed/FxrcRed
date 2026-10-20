@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-coming%20soon-2F81F7?style=flat-square)](#)
 
-I'm an architect trained at **Columbia GSAPP** (M.S. Architecture & Urban Design) and **Zhejiang University of Technology** (B.Arch), based in Shanghai.
+I'm an architect trained at **Columbia GSAPP** (M.S. Architecture & Urban Design), based in Shanghai.
 
 Currently working around: **AI-native design workflows · Generative visualization · Web 3D**
 
