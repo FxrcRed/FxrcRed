@@ -16,7 +16,7 @@ Currently working around: **AI-native design workflows · Generative visualizati
 
 ## 🛠️ Projects
 
-**[Cove Home 落间](https://github.com/FxrcRed/ai-shoe-rack)** · [try it →](https://fxrcred.github.io/ai-shoe-rack/)
+**[Cove Home 落间](https://cove-home.pages.dev/)** · [try it →](https://cove-home.pages.dev/)
 Custom shoe racks in three steps: snap your entryway, AI lays a design over the photo, pick materials and save with a price estimate.
 
 **[Quill 落笔](https://github.com/FxrcRed/quill)**
