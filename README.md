@@ -16,14 +16,17 @@ Currently working around: **AI-native design workflows · Generative visualizati
 
 ## 🛠️ Projects
 
-**[Cove Home 落间](https://cove-home.pages.dev/)** · [try it →](https://cove-home.pages.dev/)
-Custom shoe racks in three steps: snap your entryway, AI lays a design over the photo, pick materials and save with a price estimate.
+**[Cove Home](https://cove-home.pages.dev/)** · [fold it →](https://cove-home.pages.dev/lamp/)
+Furniture made from off-the-shelf steel rods and clamps. First piece: a folding floor lamp, 157 cm tall and 10 cm thin when folded; drag the 3D model to fold it. The site also hosts 落间, an AI shoe-rack designer.
 
 **[Quill 落笔](https://github.com/FxrcRed/quill)**
 Offline voice typing for Windows: speak messy English or Chinese, get clean text at your cursor. Whisper + Qwen3 via Ollama, fully local.
 
 **[Claude Usage Rings](https://github.com/FxrcRed/claude-usage-rings)**
 Live 5-hour and weekly usage rings above the prompt in the Claude desktop app, plus an optional Windows tray icon.
+
+**[That's a wrap](https://github.com/FxrcRed/claude-thats-a-wrap)**
+Say "wrap up" and Claude Code finishes the job end to end: commit, check, sync docs, push, deploy, verify.
 
 **[The Surveyor's Cabin](https://github.com/FxrcRed/surveyors-cabin)** · [walk in →](https://fxrcred.github.io/surveyors-cabin/)
 A log cabin in a northern forest you can walk into, in the browser. Day/night, seven weathers, three.js, no build step.
