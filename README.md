@@ -6,21 +6,21 @@
 
 ## 🧑‍💻 About Me
 
-I build small AI tools and things you can open in a browser. Most start from a problem I ran into myself: typing in two languages, keeping an eye on a usage limit, fitting furniture into a real room. The sweet spot is where a general model is too dumb and a real product is too much.
+I build small AI tools, 3D things you can open in a browser, and lately furniture. Most start from a problem I ran into myself: typing in two languages, keeping an eye on a usage limit, fitting furniture into a real room. I like the gap where a general model falls short and a full product would be overkill.
 
-Before that I spent three years as an architect, trained at **Columbia GSAPP**: public buildings, urban renewal, competitions. It taught me to care about how a thing actually gets made, not only how it looks on paper.
+Before that I spent three years as an architect, trained at **Columbia GSAPP**: public buildings, urban renewal, competitions. It taught me to care about how a thing actually gets made, not only how it looks on paper. That is why Cove Home starts from parts you can actually buy.
 
-Currently working around: **AI-native design workflows · Generative visualization · Web 3D**
+Currently exploring: **AI-native design workflows · Web 3D · Furniture from standard parts**
 
 ---
 
 ## 🛠️ Projects
 
 **[Cove Home](https://cove-home.pages.dev/)** · [fold it →](https://cove-home.pages.dev/lamp/)
-Furniture made from off-the-shelf steel rods and clamps. First piece: a folding floor lamp, 157 cm tall and 10 cm thin when folded; drag the 3D model to fold it. The site also hosts 落间, an AI shoe-rack designer.
+Furniture built from off-the-shelf steel rods and clamps. First piece: a floor lamp that folds from 157 cm tall to 10 cm thin; drag the 3D model to fold it. Also on the site: 落间, an AI shoe-rack designer.
 
 **[Quill 落笔](https://github.com/FxrcRed/quill)**
-Offline voice typing for Windows: speak messy English or Chinese, get clean text at your cursor. Whisper + Qwen3 via Ollama, fully local.
+Offline voice typing for Windows: speak messy English or Chinese, get clean text at your cursor. Learns the names you use. Whisper + Qwen3 via Ollama, fully local.
 
 **[The Surveyor's Cabin](https://github.com/FxrcRed/surveyors-cabin)** · [walk in →](https://fxrcred.github.io/surveyors-cabin/)
 A log cabin in a northern forest you can walk into, in the browser. Day/night, seven weathers, three.js, no build step.
