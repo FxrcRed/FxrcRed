@@ -19,7 +19,7 @@ Currently exploring: **AI-native design workflows · Web 3D · Furniture from st
 **[Cove Home](https://cove-home.pages.dev/)** · [fold it →](https://cove-home.pages.dev/lamp/)
 Furniture built from off-the-shelf steel rods and clamps. First piece: a floor lamp that folds from 157 cm tall to 10 cm thin; drag the 3D model to fold it. Also on the site: 落间, an AI shoe-rack designer.
 
-**[Quill 落笔](https://github.com/FxrcRed/quill)**
+**[Quill](https://github.com/FxrcRed/quill)**
 Offline voice typing for Windows: speak messy English or Chinese, get clean text at your cursor. Learns the names you use. Whisper + Qwen3 via Ollama, fully local.
 
 **[The Surveyor's Cabin](https://github.com/FxrcRed/surveyors-cabin)** · [walk in →](https://fxrcred.github.io/surveyors-cabin/)
