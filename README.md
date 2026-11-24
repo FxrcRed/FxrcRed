@@ -25,7 +25,7 @@ Offline voice typing for Windows: speak messy English or Chinese, get clean text
 **[The Surveyor's Cabin](https://github.com/FxrcRed/surveyors-cabin)** · [walk in →](https://fxrcred.github.io/surveyors-cabin/)
 A log cabin in a northern forest you can walk into, in the browser. Day/night, seven weathers, three.js, no build step.
 
-**[Paws Up to No Good](https://www.xiaohongshu.com/discovery/item/6b0114a9000000002b006f82?source=webshare&xhsshare=pc_web&xsec_token=YBiRvzGYTkvC9auin5_qwPBqU1ULslkO9RsdQYe-O-XPk=&xsec_source=pc_share)** · Xiaohongshu mini-game in development
+**[Paws Up to No Good](https://github.com/FxrcRed/paws-up-to-no-good)** · [Xiaohongshu demo →](https://www.xiaohongshu.com/discovery/item/6b0114a9000000002b006f82?source=webshare&xhsshare=pc_web&xsec_token=YBiRvzGYTkvC9auin5_qwPBqU1ULslkO9RsdQYe-O-XPk=&xsec_source=pc_share)
 Raise your hands and the cat raises its paws. Swipe to clear a foggy window, catch a bug, or pull petals from a flower. All eight games also work with touch.
 
 **[Claude Usage Rings](https://github.com/FxrcRed/claude-usage-rings)**
